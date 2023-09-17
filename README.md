@@ -3,6 +3,8 @@ description: >-
   Installation and configuration process for deploying Wazuh SIEM in home
   network. This is a personal project that aims to also implement an Intrusion
   detection system and feed event logs into the SIEM
+
+  To naivagte the gibook use the SUMMARY.md to progress through installation, configuration and wrting detection rules
 ---
 
 # Installing and Configuring SIEM
