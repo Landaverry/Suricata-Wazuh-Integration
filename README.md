@@ -4,7 +4,7 @@ description: >-
   network. This is a personal project that aims to also implement an Intrusion
   detection system and feed event logs into the SIEM
 
-  To naivagte the gibook use the SUMMARY.md to progress through installation, configuration and wrting detection rules
+  To naivagte the gitbook use the SUMMARY.md to progress through installation, configuration and wrting detection rules
 ---
 
 # Installing and Configuring SIEM
